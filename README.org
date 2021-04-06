@@ -6,7 +6,8 @@ Trying inline html in org readme.
 #+ATTR_HTML :width=19%
 [[https://raw.githubusercontent.com/rougier/recursive-voronoi/master/recursive-voronoi.png]]
 
-<img src="https://raw.githubusercontent.com/rougier/windmap/master/windmap.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/alien-life/master/alien-life.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/pendulum/master/pendulum.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/unknown-pleasures/master/unknown-pleasures.gif" width="19%">
+#+HTML: <img src="https://raw.githubusercontent.com/rougier/windmap/master/windmap.gif" width="19%">
+<img src="https://raw.githubusercontent.com/rougier/alien-life/master/alien-life.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/pendulum/master/pendulum.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/unknown-pleasures/master/unknown-pleasures.gif" width="19%">
 
 
 
